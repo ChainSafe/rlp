@@ -51,6 +51,7 @@
     "url": "https://github.com/ethereumjs/rlp/issues"
   },
   "dependencies": {
+    "@types/bn.js": "^4.11.3",
     "bn.js": "^4.11.1"
   },
   "devDependencies": {
@@ -58,7 +59,6 @@
     "@ethereumjs/config-prettier": "^1.0.1",
     "@ethereumjs/config-tsc": "^1.0.2",
     "@ethereumjs/config-tslint": "^1.0.0",
-    "@types/bn.js": "^4.11.3",
     "@types/mocha": "^5.2.5",
     "@types/node": "^10.12.2",
     "coveralls": "^2.11.4",
